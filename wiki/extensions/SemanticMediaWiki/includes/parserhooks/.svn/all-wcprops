@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/81127/trunk/extensions/SemanticMediaWiki/includes/parserhooks
+END
+SMW_Concept.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/81127/trunk/extensions/SemanticMediaWiki/includes/parserhooks/SMW_Concept.php
+END
+SMW_Info.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/81127/trunk/extensions/SemanticMediaWiki/includes/parserhooks/SMW_Info.php
+END
+SMW_Set.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/77403/trunk/extensions/SemanticMediaWiki/includes/parserhooks/SMW_Set.php
+END
+SMW_Ask.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/mediawiki/!svn/ver/81127/trunk/extensions/SemanticMediaWiki/includes/parserhooks/SMW_Ask.php
+END
+SMW_SetRecurringEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/mediawiki/!svn/ver/81127/trunk/extensions/SemanticMediaWiki/includes/parserhooks/SMW_SetRecurringEvent.php
+END
+SMW_Declare.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/mediawiki/!svn/ver/81127/trunk/extensions/SemanticMediaWiki/includes/parserhooks/SMW_Declare.php
+END
+SMW_Show.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/mediawiki/!svn/ver/81127/trunk/extensions/SemanticMediaWiki/includes/parserhooks/SMW_Show.php
+END

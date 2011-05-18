@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/82970/trunk/extensions/SemanticMediaWiki/includes/queryprinters
+END
+SMW_QP_RSSlink.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/mediawiki/!svn/ver/72986/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_RSSlink.php
+END
+SMW_QP_JSONlink.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/72986/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_JSONlink.php
+END
+SMW_QP_Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/mediawiki/!svn/ver/72986/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_Table.php
+END
+SMW_QP_Auto.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/72986/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_Auto.php
+END
+SMW_QP_Embedded.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/82944/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_Embedded.php
+END
+SMW_QP_CSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/82957/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_CSV.php
+END
+SMW_QP_List.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/mediawiki/!svn/ver/79916/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_List.php
+END
+SMW_QP_RDF.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/79734/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_RDF.php
+END
+SMW_QP_DSV.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/82970/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_DSV.php
+END
+SMW_QP_Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/mediawiki/!svn/ver/72986/trunk/extensions/SemanticMediaWiki/includes/queryprinters/SMW_QP_Category.php
+END

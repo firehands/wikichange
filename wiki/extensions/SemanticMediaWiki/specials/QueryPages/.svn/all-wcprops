@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/mediawiki/!svn/ver/82671/trunk/extensions/SemanticMediaWiki/specials/QueryPages
+END
+SMW_SpecialTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/mediawiki/!svn/ver/82671/trunk/extensions/SemanticMediaWiki/specials/QueryPages/SMW_SpecialTypes.php
+END
+SMW_SpecialProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/mediawiki/!svn/ver/82277/trunk/extensions/SemanticMediaWiki/specials/QueryPages/SMW_SpecialProperties.php
+END
+SMW_SpecialWantedProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mediawiki/!svn/ver/67298/trunk/extensions/SemanticMediaWiki/specials/QueryPages/SMW_SpecialWantedProperties.php
+END
+SMW_SpecialUnusedProperties.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/mediawiki/!svn/ver/67298/trunk/extensions/SemanticMediaWiki/specials/QueryPages/SMW_SpecialUnusedProperties.php
+END
+SMW_QueryPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/mediawiki/!svn/ver/66966/trunk/extensions/SemanticMediaWiki/specials/QueryPages/SMW_QueryPage.php
+END

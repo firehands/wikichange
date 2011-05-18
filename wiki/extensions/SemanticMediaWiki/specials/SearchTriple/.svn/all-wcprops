@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/67659/trunk/extensions/SemanticMediaWiki/specials/SearchTriple
+END
+SMW_SpecialSearchByProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/mediawiki/!svn/ver/67659/trunk/extensions/SemanticMediaWiki/specials/SearchTriple/SMW_SpecialSearchByProperty.php
+END
+SMW_SpecialBrowse.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/mediawiki/!svn/ver/67659/trunk/extensions/SemanticMediaWiki/specials/SearchTriple/SMW_SpecialBrowse.php
+END
+SMW_SpecialPageProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/mediawiki/!svn/ver/67659/trunk/extensions/SemanticMediaWiki/specials/SearchTriple/SMW_SpecialPageProperty.php
+END

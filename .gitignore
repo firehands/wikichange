@@ -1,0 +1,6 @@
+.htaccess
+google*.html
+wiki/DBSettings.php
+wiki/secretKey.php
+wiki/images/*
+

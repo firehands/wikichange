@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/mediawiki/!svn/ver/83650/trunk/extensions/SemanticForms/specials
+END
+SF_CreateCategory.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/83031/trunk/extensions/SemanticForms/specials/SF_CreateCategory.php
+END
+SF_FormStart.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/83221/trunk/extensions/SemanticForms/specials/SF_FormStart.php
+END
+SF_Forms.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/mediawiki/!svn/ver/82619/trunk/extensions/SemanticForms/specials/SF_Forms.php
+END
+SF_CreateForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/mediawiki/!svn/ver/83650/trunk/extensions/SemanticForms/specials/SF_CreateForm.php
+END
+SF_CreateProperty.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/82750/trunk/extensions/SemanticForms/specials/SF_CreateProperty.php
+END
+SF_CreateClass.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/mediawiki/!svn/ver/82619/trunk/extensions/SemanticForms/specials/SF_CreateClass.php
+END
+SF_FormEdit.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/80483/trunk/extensions/SemanticForms/specials/SF_FormEdit.php
+END
+SF_RunQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/mediawiki/!svn/ver/82937/trunk/extensions/SemanticForms/specials/SF_RunQuery.php
+END
+SF_UploadWindow.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/mediawiki/!svn/ver/78502/trunk/extensions/SemanticForms/specials/SF_UploadWindow.php
+END
+SF_Templates.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/82619/trunk/extensions/SemanticForms/specials/SF_Templates.php
+END
+SF_UploadWindow2.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/mediawiki/!svn/ver/82543/trunk/extensions/SemanticForms/specials/SF_UploadWindow2.php
+END
+SF_CreateTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/mediawiki/!svn/ver/82772/trunk/extensions/SemanticForms/specials/SF_CreateTemplate.php
+END

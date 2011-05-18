@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/mediawiki/!svn/ver/83612/trunk/extensions/SemanticMediaWiki
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/82703/trunk/extensions/SemanticMediaWiki/INSTALL
+END
+RELEASE-NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/mediawiki/!svn/ver/83028/trunk/extensions/SemanticMediaWiki/RELEASE-NOTES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/mediawiki/!svn/ver/67439/trunk/extensions/SemanticMediaWiki/COPYING
+END
+SMW_Settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/mediawiki/!svn/ver/82966/trunk/extensions/SemanticMediaWiki/SMW_Settings.php
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/mediawiki/!svn/ver/76087/trunk/extensions/SemanticMediaWiki/README
+END
+SemanticMediaWiki.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/mediawiki/!svn/ver/80097/trunk/extensions/SemanticMediaWiki/SemanticMediaWiki.php
+END
